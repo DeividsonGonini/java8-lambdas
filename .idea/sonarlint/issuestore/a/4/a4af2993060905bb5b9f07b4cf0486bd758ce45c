@@ -1,0 +1,5 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€µôÆûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—ôûÿÿÿÿ
+h
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(€µôÆûÿÿÿÿ8¼åÉˆ‹0
