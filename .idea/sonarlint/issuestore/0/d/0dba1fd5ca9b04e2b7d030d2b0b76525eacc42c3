@@ -1,0 +1,5 @@
+
+V	java:S125	"<This block of commented-out lines of code should be removed.(æá…Òÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÆÌ°
+}
+java:S3655"`Call "numeroConvertido.isPresent()" or "!numeroConvertido.isEmpty()" before accessing the value.(ÉÆÌ°8ã„¥“’0

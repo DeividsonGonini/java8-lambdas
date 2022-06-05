@@ -1,0 +1,4 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å∂óì
+j
+java:S3655"TCall "reduceSoma.isPresent()" or "!reduceSoma.isEmpty()" before accessing the value.(Å∂óì

@@ -1,0 +1,4 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¸äÖùÿÿÿÿ
+
+java:S3655"dCall "reduceConcatenacao.isPresent()" or "!reduceConcatenacao.isEmpty()" before accessing the value.(Ç¸äÖùÿÿÿÿ
