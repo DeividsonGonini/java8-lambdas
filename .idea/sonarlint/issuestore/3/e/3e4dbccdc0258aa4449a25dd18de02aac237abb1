@@ -1,14 +1,0 @@
-
-E
-java:S3740"/Provide the parametrized type for this generic.(Ë‚à—
-N	java:S106"9Replace this use of System.out or System.err by a logger.(£ŠŽè
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì
-S	java:S106"9Replace this use of System.out or System.err by a logger.(áåâ»ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆžÂû
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÐÅéæ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(–¤®ª
-\
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÊË›q8ýé˜º‰0
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ÊË›q
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ïÃË

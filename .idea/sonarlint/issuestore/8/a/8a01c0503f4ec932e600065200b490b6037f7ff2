@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Úı¸û
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ß›²Éüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¥İ–Âşÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(½ºË¸
+S
+java:S16128"6Replace this lambda with method reference 'Math::min'.(¦Ö§Š8•ñ±“0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¤ö€8–ñ±“0

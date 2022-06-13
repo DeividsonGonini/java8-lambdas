@@ -13,8 +13,6 @@ h
 8src/main/java/streams/intermediarias/StreamDistinct.java,9\3\936bb1db07e3e4eecb5f3961c25dca3824e9619b
 d
 4src/main/java/streams/intermediarias/StreamSkip.java,3\3\33d4eb613c7c36109e9d996910414d6a8953943d
-Q
-!src/main/java/streams/Stream.java,3\e\3e4dbccdc0258aa4449a25dd18de02aac237abb1
 e
 5src/main/java/streams/finais/StreamCollectToList.java,3\4\34fdeafafe1f5a81856ad1b4087e922366c810f5
 f
@@ -65,3 +63,5 @@ Y
 -src/main/java/reduce/ReduceMultiplicacao.java,4\4\44f2bc2165c2d64055ee85638326b28e69df7d7e
 T
 $src/main/java/reduce/ReduceSoma.java,2\6\26c35babf6eb0d1be19b7d236d8b43d24c1750e4
+_
+/src/main/java/reduce/ReduceValorIdentidade.java,8\a\8a01c0503f4ec932e600065200b490b6037f7ff2
