@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Úý¸û
+`
+java:S1858""J"string1" is already a string, there's no need to call "toString()" on it.(·´½Œ
+`
+java:S1858""J"string2" is already a string, there's no need to call "toString()" on it.(·´½Œ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¥Ý–Âþÿÿÿÿ
+W
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖÐ©8…Õ‰²“0

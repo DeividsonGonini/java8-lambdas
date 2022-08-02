@@ -25,12 +25,8 @@ i
 +src/main/java/streams/finais/StreamMin.java,a\4\a4af2993060905bb5b9f07b4cf0486bd758ce45c
 ]
 -src/main/java/streams/finais/StreamCount.java,b\7\b7d8161e0b033d07f25868f98ee11c9bc0d7e2aa
-a
-1src/main/java/lambdas/Java8LambdaEx1Runnable.java,a\c\acd592d5c4607b9d4808864ff0164fb5612f94d5
 c
 3src/main/java/streams/intermediarias/StreamMap.java,6\f\6fe23aa1ad52efb3659f904a75d1d449e4ad4a0f
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 n
 >src/main/java/optionals/criaroptional/OptionalFormaAntiga.java,f\7\f77688638fc48b3824399ef264c3f4ed32eafa8e
 u
@@ -65,3 +61,5 @@ T
 $src/main/java/reduce/ReduceSoma.java,2\6\26c35babf6eb0d1be19b7d236d8b43d24c1750e4
 _
 /src/main/java/reduce/ReduceValorIdentidade.java,8\a\8a01c0503f4ec932e600065200b490b6037f7ff2
+\
+,src/main/java/collect/maps/CollectToMap.java,f\8\f8de1d9a4fb6efa9322ac3793b672507e36741e2

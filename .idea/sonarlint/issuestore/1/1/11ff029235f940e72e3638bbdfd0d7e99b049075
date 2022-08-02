@@ -1,0 +1,23 @@
+
+V
+java:S1611";Remove the parentheses around the "elementoLista" parameter(åö‹Äüÿÿÿÿ
+O
+java:S1612"9Replace this lambda with method reference 'TreeSet::new'.(‘¹ˆö
+M	java:S106"9Replace this use of System.out or System.err by a logger.(€÷P
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£¦ı³şÿÿÿÿ
+]
+java:S1611";Remove the parentheses around the "elementoLista" parameter(åö‹Äüÿÿÿÿ8Ï”’Ñ•0
+Y
+java:S1612"<Replace this lambda with method reference 'LinkedList::new'.(ùÅõ 8Ï”’Ñ•0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(€÷P8Ï”’Ñ•0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¢µ8Ğ”’Ñ•0
+]
+java:S1611";Remove the parentheses around the "elementoLista" parameter(åö‹Äüÿÿÿÿ8”Ë”Ñ•0
+^
+java:S1612"<Replace this lambda with method reference 'ArrayDeque::new'.(İÖŒ úÿÿÿÿ8”Ë”Ñ•0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(€÷P8•Ë”Ñ•0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(áäÜòÿÿÿÿÿ8•Ë”Ñ•0
+u
+java:S1192"SDefine a constant instead of duplicating this literal "Lista do Collect: " 3 times.(£¦ı³şÿÿÿÿ8Ë”Ñ•0
+m
+java:S1192"QDefine a constant instead of duplicating this literal "Lista original: " 3 times.(€÷P8Ë”Ñ•0
