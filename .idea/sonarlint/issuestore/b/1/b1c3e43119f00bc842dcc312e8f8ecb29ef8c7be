@@ -1,0 +1,10 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "runnable".(Ì­©¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì­©¼
+C
+java:S1481"-Remove this unused "runnable" local variable.(Ì­©¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ÉÄ¡ÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ

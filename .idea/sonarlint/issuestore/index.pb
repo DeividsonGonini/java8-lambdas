@@ -63,3 +63,15 @@ _
 /src/main/java/reduce/ReduceValorIdentidade.java,8\a\8a01c0503f4ec932e600065200b490b6037f7ff2
 \
 ,src/main/java/collect/maps/CollectToMap.java,f\8\f8de1d9a4fb6efa9322ac3793b672507e36741e2
+R
+"src/main/java/collect/Collect.java,4\8\48e6f0105b9544efaae8df5b230f015bce30e132
+b
+2src/main/java/collect/collectto/CollectToList.java,2\a\2a1b1ba4e005ab7514687f1e7dadada2109d0865
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+a
+1src/main/java/lambdas/Java8LambdaEx1Runnable.java,a\c\acd592d5c4607b9d4808864ff0164fb5612f94d5
+\
+,src/main/java/lambdas/Java8TodosLambdas.java,b\1\b1c3e43119f00bc842dcc312e8f8ecb29ef8c7be
+`
+0src/main/java/collect/calculo/CollectMaxMin.java,1\6\16170b29e10ef956cb70150fcc66ef42f7d1effd

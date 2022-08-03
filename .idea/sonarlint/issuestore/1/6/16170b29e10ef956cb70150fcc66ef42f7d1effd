@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æâ¬‹ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ù¨İ
+V
+java:S1611";Remove the parentheses around the "elementoLista" parameter(åö‹Äüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æâ¬‹ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ”£¹
+V
+java:S1611";Remove the parentheses around the "elementoLista" parameter(åö‹Äüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
