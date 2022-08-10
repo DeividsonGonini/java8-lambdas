@@ -1,0 +1,10 @@
+
+]
+java:S1611";Remove the parentheses around the "elementoLista" parameter(‰³ñÓùÿÿÿÿ8Ş×ÚŠ¦0
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‰³ñÓùÿÿÿÿ8—”İŠ¦0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰³ñÓùÿÿÿÿ8ÒëÙŠ¦0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8—”İŠ¦0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8—”İŠ¦0
